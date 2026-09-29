@@ -1,0 +1,13 @@
+Launch the existing DB Window Tint & Car Audio website for me using my own GitHub and Vercel accounts. Read AI-HANDOFF.md and README.md in the attached package, then handle the technical setup and deployment. Keep the approved design and existing features.
+
+If you cannot read the attachment, read the handoff here:
+https://raw.githubusercontent.com/NorthStarDigitalLLC/db-window-tint-website/main/AI-HANDOFF.md
+
+The complete source is here:
+https://github.com/NorthStarDigitalLLC/db-window-tint-website
+
+Check your available tools and account access first. If you can operate the connected tools or browser, create or reuse a copy of this project in MY GitHub account, connect it to MY Vercel account, publish it, and run the checks in the handoff. Do not modify NorthStar's template or demo.
+
+I will complete sign-ins, account approvals, and any billing decisions directly. Ask only for details or actions you actually need, such as my account identity or domain. Do not ask me to paste passwords or tokens into this chat. Do not purchase a plan or domain without my approval.
+
+If your session cannot deploy, tell me the exact access or tool that is missing and guide me through the shortest setup path. Do not claim the site is live until its public URL is verified. Finish with my working website URL, GitHub repository link, and any remaining domain setup.

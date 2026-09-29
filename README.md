@@ -2,6 +2,10 @@
 
 Complete standalone website for the Anderson, South Carolina shop. All site files, six vehicle photos, and fonts are included.
 
+## Have ChatGPT handle the launch
+
+Attach the full [ChatGPT handoff ZIP](https://www.northstardigitalweb.com/db-window-tint/DB-Window-Tint-ChatGPT-Handoff.zip) to a new ChatGPT conversation and paste the message in [START-WITH-CHATGPT.txt](START-WITH-CHATGPT.txt). The assistant should read [AI-HANDOFF.md](AI-HANDOFF.md), use your own GitHub and Vercel accounts, and verify your deployed website. You complete account sign-ins, permissions, and any billing decisions. Available deployment tools depend on the session; the handoff includes an assisted setup fallback.
+
 ## Set up your own copy
 
 [**Set up with GitHub + Vercel**](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNorthStarDigitalLLC%2Fdb-window-tint-website)
